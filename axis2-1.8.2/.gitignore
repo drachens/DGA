@@ -1,0 +1,8 @@
+.project
+.classpath
+.settings
+target
+/modules/tool/axis2-eclipse-codegen-plugin/META-INF
+/modules/tool/axis2-eclipse-codegen-plugin/lib
+/modules/tool/axis2-eclipse-service-plugin/META-INF
+/modules/tool/axis2-eclipse-service-plugin/lib
